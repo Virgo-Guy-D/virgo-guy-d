@@ -60,11 +60,6 @@ Whether you need a SaaS platform, business dashboard, custom web application, AI
 <h2 align="left" id="macropower-tech">Favorite Tech</h2>
 
 <table align="center">
-
-  <!-- Frontend -->
-  <tr>
-    <td colspan="8" align="center"><b>🎨 Frontend</b></td>
-  </tr>
   <tr>
     <td align="center" width="96">
       <img src="https://techstack-generator.vercel.app/react-icon.svg" width="65" height="65"/><br>React
@@ -90,11 +85,6 @@ Whether you need a SaaS platform, business dashboard, custom web application, AI
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=graphql" width="65" height="65"/><br>GraphQL
     </td>
-  </tr>
-
-  <!-- Backend -->
-  <tr>
-    <td colspan="8" align="center"><b>⚙️ Backend</b></td>
   </tr>
   <tr>
     <td align="center" width="96">
@@ -122,11 +112,6 @@ Whether you need a SaaS platform, business dashboard, custom web application, AI
       <img src="https://techstack-generator.vercel.app/sass-icon.svg" width="65" height="65"/><br>Sass
     </td>
   </tr>
-
-  <!-- Languages -->
-  <tr>
-    <td colspan="8" align="center"><b>💻 Languages</b></td>
-  </tr>
   <tr>
     <td align="center" width="96">
       <img src="https://techstack-generator.vercel.app/js-icon.svg" width="65" height="65"/><br>JavaScript
@@ -144,11 +129,6 @@ Whether you need a SaaS platform, business dashboard, custom web application, AI
       <img src="https://techstack-generator.vercel.app/swift-icon.svg" width="65" height="65"/><br>Swift
     </td>
   </tr>
-
-  <!-- Database & Cloud -->
-  <tr>
-    <td colspan="8" align="center"><b>🗄️ Database & Cloud</b></td>
-  </tr>
   <tr>
     <td align="center" width="96">
       <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="65" height="65"/><br>MySQL
@@ -162,11 +142,6 @@ Whether you need a SaaS platform, business dashboard, custom web application, AI
     <td align="center" width="96">
       <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="65" height="65"/><br>Docker
     </td>
-  </tr>
-
-  <!-- Mobile & Tools -->
-  <tr>
-    <td colspan="8" align="center"><b>📱 Mobile & Tools</b></td>
   </tr>
   <tr>
     <td align="center" width="96">
