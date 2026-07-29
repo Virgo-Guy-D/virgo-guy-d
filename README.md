@@ -16,16 +16,16 @@ Here's How I Can Help :
 
 🚀 Full-Stack Web Development
 
-✅ Custom Web Application Development
-✅ SaaS Platform Development
-✅ Business Management Systems
-✅ CRM & ERP Development
-✅ Admin Dashboards
-✅ REST API & GraphQL Development
-✅ Third-Party API Integration
-✅ Authentication & User Management
-✅ Database Design & Optimization
-✅ Cloud Deployment & Server Configuration
+✅ Custom Web Application Development<br>
+✅ SaaS Platform Development<br>
+✅ Business Management Systems<br>
+✅ CRM & ERP Development<br>
+✅ Admin Dashboards<br>
+✅ REST API & GraphQL Development<br>
+✅ Third-Party API Integration<br>
+✅ Authentication & User Management<br>
+✅ Database Design & Optimization<br>
+✅ Cloud Deployment & Server Configuration<br>
 
 ⚛️ Front-End Development
 
