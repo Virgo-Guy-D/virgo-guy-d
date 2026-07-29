@@ -1,20 +1,107 @@
 ## Hi there 👋
 
-Full-Stack E-Commerce Developer | Shopify Expert | Custom Theme Developer
+Full Stack Developer | AI & Web Apps
 
 ### 👨‍💻 About Me  
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-I'm a **Full-Stack E-Commerce Developer** specializing in Shopify and custom online store solutions. With over **8+ years of experience**, I've helped businesses of all sizes launch and scale their online presence.
-My approach combines **technical expertise** with **deep understanding** of e-commerce best practices. From custom Shopify themes to complex app integrations, I build solutions that not only look beautiful but also drive conversions and revenue.
+I'm a **Full-Stack E-Commerce Developer** specializing in Shopify and custom online store solutions. With over **8+ years of experience**, I help businesses build modern web applications, scalable SaaS platforms, e-commerce solutions, and custom business systems that are fast, secure, and built to grow.
 
-- 😄 I am handsome and cool.
-- 😎 One Developer Army 💪💪
+Whether you're launching a startup, automating business processes, creating an online platform, or improving an existing application, I deliver clean, maintainable solutions focused on performance, scalability, and user experience.
+
 - 🔭 I’m currently working on a [lot of projects](https://github.com/virgo-guy?tab=repositories), especially e-commerce !!
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2026 Goals: $100,000
-- ⚡ Fun fact: I love code and beautiful girl 🤣🤣
+
+Here's How I Can Help :
+
+🚀 Full-Stack Web Development
+
+✅ Custom Web Application Development
+✅ SaaS Platform Development
+✅ Business Management Systems
+✅ CRM & ERP Development
+✅ Admin Dashboards
+✅ REST API & GraphQL Development
+✅ Third-Party API Integration
+✅ Authentication & User Management
+✅ Database Design & Optimization
+✅ Cloud Deployment & Server Configuration
+
+⚛️ Front-End Development
+
+✅ React.js Development
+✅ Next.js Applications
+✅ TypeScript Development
+✅ Responsive UI Development
+✅ Tailwind CSS
+✅ Modern JavaScript (ES6+)
+✅ Performance Optimization
+✅ SEO-Friendly Websites
+
+⚙️ Back-End Development
+
+✅ Node.js Development
+✅ Express.js APIs
+✅ PHP & Laravel
+✅ ASP.NET Core (C#)
+✅ PostgreSQL & MySQL
+✅ MongoDB
+✅ Firebase & Supabase
+✅ Payment Gateway Integration
+✅ File Upload Systems
+✅ Email & Notification Systems
+
+🤖 AI & Automation
+
+✅ OpenAI / ChatGPT Integration
+✅ AI-Powered Web Applications
+✅ Workflow Automation
+✅ API Automation
+✅ Data Processing Tools
+✅ AI Chatbots
+✅ Business Process Automation
+
+🛒 Shopify & E-Commerce
+
+✅ Shopify Store Development
+✅ Theme Customization
+✅ Shopify App Integration
+✅ Shopify Plus Solutions
+✅ Store Migration
+✅ Custom Sections & Features
+✅ Performance Optimization
+✅ Payment Gateway Integration
+
+📈 Performance & Optimization
+
+✅ Website Speed Optimization
+✅ Bug Fixes & Maintenance
+✅ Mobile Responsive Development
+✅ Security Improvements
+✅ Scalability Optimization
+✅ Conversion Rate Optimization (CRO)
+
+🎯 Why Work With Me?
+
+🤝 Clear and responsive communication
+
+📅 Reliable project delivery
+
+🧹 Clean, maintainable, and scalable code
+
+⚡ Performance-focused development
+
+🔒 Secure and production-ready solutions
+
+🛠 Long-term support after project completion
+
+🌟 My Goal :
+
+I build software that solves real business problems—not just websites.
+
+Whether you need a SaaS platform, business dashboard, custom web application, AI-powered solution, Shopify store, or full-stack website, I'm committed to delivering reliable, scalable, and high-quality results.
+
+📩 Let's discuss your project and build something great together.
 
 
 <h2> Visitor count  </h2>
