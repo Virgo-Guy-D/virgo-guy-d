@@ -10,7 +10,7 @@ I'm a **Full-Stack E-Commerce Developer** specializing in Shopify and custom onl
 
 Whether you're launching a startup, automating business processes, creating an online platform, or improving an existing application, I deliver clean, maintainable solutions focused on performance, scalability, and user experience.
 
-🔭 I’m currently working on a [lot of projects](https://github.com/virgo-guy?tab=repositories), especially e-commerce !!
+⭐️⭐️⭐️⭐️⭐️ I’m currently working on a [lot of projects](https://github.com/virgo-guy?tab=repositories), especially e-commerce !!
 
 Here's How I Can Help :
 
@@ -78,7 +78,7 @@ Whether you need a SaaS platform, business dashboard, custom web application, AI
       <br>Vue
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/shopify-icon.svg" alt="Shopify" width="65" height="65" />
+      <img src="https://cdn.simpleicons.org/shopify" alt="Shopify" width="65" height="65" />
       <br>Shopify
     </td>
     <td align="center" width="96">
