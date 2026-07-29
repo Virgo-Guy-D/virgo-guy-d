@@ -70,7 +70,7 @@ Whether you need a SaaS platform, business dashboard, custom web application, AI
       <br>Redux
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/next-icon.svg" alt="Next" width="65" height="65" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="65" height="65" alt="Next.js" />
       <br>Next
     </td>
     <td align="center" width="96">
