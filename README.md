@@ -30,12 +30,19 @@ Here's How I Can Help :
 ⚛️ Front-End Development
 
 ✅ React.js Development
+
 ✅ Next.js Applications
+
 ✅ TypeScript Development
+
 ✅ Responsive UI Development
+
 ✅ Tailwind CSS
+
 ✅ Modern JavaScript (ES6+)
+
 ✅ Performance Optimization
+
 ✅ SEO-Friendly Websites
 
 ⚙️ Back-End Development
