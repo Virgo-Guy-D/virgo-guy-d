@@ -95,6 +95,8 @@ Whether you need a SaaS platform, business dashboard, custom web application, AI
       <img src="https://cdn.simpleicons.org/nestjs" alt="NestJS" width="65" height="65" />
       <br>NestJS
     </td>
+  </tr>
+  <tr>
     <td align="center" width="96">
       <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="65" height="65" />
       <br>AWS
@@ -103,8 +105,6 @@ Whether you need a SaaS platform, business dashboard, custom web application, AI
       <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="Django" width="65" height="65" />
       <br>Django
     </td>
-  </tr>
-  <tr>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=tailwind" width="65" height="65" alt="Tailwind" />
       <br>Tailwind
@@ -129,6 +129,8 @@ Whether you need a SaaS platform, business dashboard, custom web application, AI
       <img src="https://skillicons.dev/icons?i=nodejs" width="65" height="65" alt="Node.js" />
       <br>Nodejs
     </td>
+  </tr>
+  <tr>
     <td align="center" width="96">
       <img src="https://reactnative.dev/img/header_logo.svg"
         width="65" height="65" alt="React Native" />
@@ -139,8 +141,6 @@ Whether you need a SaaS platform, business dashboard, custom web application, AI
         width="65" height="65" alt="Flutter" />
       <br>Flutter
     </td>
-  </tr>
-  <tr>
     <td align="center" width="96">
       <img src="https://techstack-generator.vercel.app/java-icon.svg"
         width="65" height="65" alt="Java" />
