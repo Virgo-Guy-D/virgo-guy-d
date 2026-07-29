@@ -70,8 +70,16 @@ Whether you need a SaaS platform, business dashboard, custom web application, AI
       <br>Redux
     </td>
     <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/next-icon.svg" alt="Next" width="65" height="65" />
+      <br>Next
+    </td>
+    <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=vue" width="65" height="65" alt="Vue" />
       <br>Vue
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/shopify-icon.svg" alt="Shopify" width="65" height="65" />
+      <br>Shopify
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
