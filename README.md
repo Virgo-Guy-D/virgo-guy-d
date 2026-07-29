@@ -10,7 +10,7 @@ I'm a **Full-Stack E-Commerce Developer** specializing in Shopify and custom onl
 
 Whether you're launching a startup, automating business processes, creating an online platform, or improving an existing application, I deliver clean, maintainable solutions focused on performance, scalability, and user experience.
 
-- 🔭 I’m currently working on a [lot of projects](https://github.com/virgo-guy?tab=repositories), especially e-commerce !!
+🔭 I’m currently working on a [lot of projects](https://github.com/virgo-guy?tab=repositories), especially e-commerce !!
 
 Here's How I Can Help :
 
@@ -27,7 +27,7 @@ Here's How I Can Help :
 - 📈 Performance & Optimization
 
 
-🎯 Why Work With Me?
+🎯 Why Work With Me :
 
 - 🤝 Clear and responsive communication
 
