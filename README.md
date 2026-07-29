@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Full Stack Developer | AI & Web Apps
+Full Stack Engineer | AI, Web & Mobile Apps
 
 ### 👨‍💻 About Me  
 
