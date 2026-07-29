@@ -14,86 +14,32 @@ Whether you're launching a startup, automating business processes, creating an o
 
 Here's How I Can Help :
 
-🚀 Full-Stack Web Development
+- 🚀 Full-Stack Web Development
 
-✅ Custom Web Application Development<br>
-✅ SaaS Platform Development<br>
-✅ Business Management Systems<br>
-✅ CRM & ERP Development<br>
-✅ Admin Dashboards<br>
-✅ REST API & GraphQL Development<br>
-✅ Third-Party API Integration<br>
-✅ Authentication & User Management<br>
-✅ Database Design & Optimization<br>
-✅ Cloud Deployment & Server Configuration<br>
+- ⚛️ Front-End Development
 
-⚛️ Front-End Development
+- ⚙️ Back-End Development
 
-✅ React.js Development<br>
-✅ Next.js Applications<br>
-✅ TypeScript Development<br>
-✅ Responsive UI Development<br>
-✅ Tailwind CSS<br>
-✅ Modern JavaScript (ES6+)<br>
-✅ Performance Optimization<br>
-✅ SEO-Friendly Websites<br>
+- 🤖 AI & Automation
 
-⚙️ Back-End Development
+- 🛒 Shopify & E-Commerce
 
-✅ Node.js Development<br>
-✅ Express.js APIs<br>
-✅ PHP & Laravel<br>
-✅ ASP.NET Core (C#)<br>
-✅ PostgreSQL & MySQL<br>
-✅ MongoDB<br>
-✅ Firebase & Supabase<br>
-✅ Payment Gateway Integration<br>
-✅ File Upload Systems<br>
-✅ Email & Notification Systems<br>
+- 📈 Performance & Optimization
 
-🤖 AI & Automation
-
-✅ OpenAI / ChatGPT Integration<br>
-✅ AI-Powered Web Applications<br>
-✅ Workflow Automation<br>
-✅ API Automation<br>
-✅ Data Processing Tools<br>
-✅ AI Chatbots<br>
-✅ Business Process Automation<br>
-
-🛒 Shopify & E-Commerce
-
-✅ Shopify Store Development<br>
-✅ Theme Customization<br>
-✅ Shopify App Integration<br>
-✅ Shopify Plus Solutions<br>
-✅ Store Migration<br>
-✅ Custom Sections & Features<br>
-✅ Performance Optimization<br>
-✅ Payment Gateway Integration<br>
-
-📈 Performance & Optimization
-
-✅ Website Speed Optimization<br>
-✅ Bug Fixes & Maintenance<br>
-✅ Mobile Responsive Development<br>
-✅ Security Improvements<br>
-✅ Scalability Optimization<br>
-✅ Conversion Rate Optimization (CRO)<br>
 
 🎯 Why Work With Me?
 
-🤝 Clear and responsive communication
+- 🤝 Clear and responsive communication
 
-📅 Reliable project delivery
+- 📅 Reliable project delivery
 
-🧹 Clean, maintainable, and scalable code
+- 🧹 Clean, maintainable, and scalable code
 
-⚡ Performance-focused development
+- ⚡ Performance-focused development
 
-🔒 Secure and production-ready solutions
+- 🔒 Secure and production-ready solutions
 
-🛠 Long-term support after project completion
+- 🛠 Long-term support after project completion
 
 🌟 My Goal :
 
