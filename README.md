@@ -29,64 +29,57 @@ Here's How I Can Help :
 
 ⚛️ Front-End Development
 
-✅ React.js Development
-
-✅ Next.js Applications
-
-✅ TypeScript Development
-
-✅ Responsive UI Development
-
-✅ Tailwind CSS
-
-✅ Modern JavaScript (ES6+)
-
-✅ Performance Optimization
-
-✅ SEO-Friendly Websites
+✅ React.js Development<br>
+✅ Next.js Applications<br>
+✅ TypeScript Development<br>
+✅ Responsive UI Development<br>
+✅ Tailwind CSS<br>
+✅ Modern JavaScript (ES6+)<br>
+✅ Performance Optimization<br>
+✅ SEO-Friendly Websites<br>
 
 ⚙️ Back-End Development
 
-✅ Node.js Development
-✅ Express.js APIs
-✅ PHP & Laravel
-✅ ASP.NET Core (C#)
-✅ PostgreSQL & MySQL
-✅ MongoDB
-✅ Firebase & Supabase
-✅ Payment Gateway Integration
-✅ File Upload Systems
-✅ Email & Notification Systems
+✅ Node.js Development<br>
+✅ Express.js APIs<br>
+✅ PHP & Laravel<br>
+✅ ASP.NET Core (C#)<br>
+✅ PostgreSQL & MySQL<br>
+✅ MongoDB<br>
+✅ Firebase & Supabase<br>
+✅ Payment Gateway Integration<br>
+✅ File Upload Systems<br>
+✅ Email & Notification Systems<br>
 
 🤖 AI & Automation
 
-✅ OpenAI / ChatGPT Integration
-✅ AI-Powered Web Applications
-✅ Workflow Automation
-✅ API Automation
-✅ Data Processing Tools
-✅ AI Chatbots
-✅ Business Process Automation
+✅ OpenAI / ChatGPT Integration<br>
+✅ AI-Powered Web Applications<br>
+✅ Workflow Automation<br>
+✅ API Automation<br>
+✅ Data Processing Tools<br>
+✅ AI Chatbots<br>
+✅ Business Process Automation<br>
 
 🛒 Shopify & E-Commerce
 
-✅ Shopify Store Development
-✅ Theme Customization
-✅ Shopify App Integration
-✅ Shopify Plus Solutions
-✅ Store Migration
-✅ Custom Sections & Features
-✅ Performance Optimization
-✅ Payment Gateway Integration
+✅ Shopify Store Development<br>
+✅ Theme Customization<br>
+✅ Shopify App Integration<br>
+✅ Shopify Plus Solutions<br>
+✅ Store Migration<br>
+✅ Custom Sections & Features<br>
+✅ Performance Optimization<br>
+✅ Payment Gateway Integration<br>
 
 📈 Performance & Optimization
 
-✅ Website Speed Optimization
-✅ Bug Fixes & Maintenance
-✅ Mobile Responsive Development
-✅ Security Improvements
-✅ Scalability Optimization
-✅ Conversion Rate Optimization (CRO)
+✅ Website Speed Optimization<br>
+✅ Bug Fixes & Maintenance<br>
+✅ Mobile Responsive Development<br>
+✅ Security Improvements<br>
+✅ Scalability Optimization<br>
+✅ Conversion Rate Optimization (CRO)<br>
 
 🎯 Why Work With Me?
 
