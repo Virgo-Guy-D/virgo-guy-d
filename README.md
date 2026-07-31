@@ -91,6 +91,9 @@ Whether you need a SaaS platform, business dashboard, custom web application, AI
       <img src="https://cdn.simpleicons.org/shopify/7AB55C" width="65" height="65"/><br>Shopify
     </td>
     <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=wordpress" width="65" height="65"/><br>Wordpress
+    </td>
+    <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=graphql" width="65" height="65"/><br>GraphQL
     </td>
     <td align="center" width="96">
@@ -108,11 +111,11 @@ Whether you need a SaaS platform, business dashboard, custom web application, AI
     <td align="center" width="96">
       <img src="https://techstack-generator.vercel.app/java-icon.svg" width="65" height="65"/><br>Java
     </td>
+  </tr>
+  <tr>
     <td align="center" width="96">
       <img src="https://spring.io/img/logos/spring-initializr.svg" width="65" height="65"/><br>Spring
     </td>
-  </tr>
-  <tr>
     <td align="center" width="96">
       <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="65" height="65"/><br>REST API
     </td>
@@ -134,11 +137,11 @@ Whether you need a SaaS platform, business dashboard, custom web application, AI
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=mongodb" width="65" height="65"/><br>MongoDB
     </td>
+  </tr>
+  <tr>
     <td align="center" width="96">
       <img src="https://techstack-generator.vercel.app/aws-icon.svg" width="65" height="65"/><br>AWS
     </td>
-  </tr>
-  <tr>
     <td align="center" width="96">
       <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="65" height="65"/><br>Docker
     </td>
