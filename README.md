@@ -161,7 +161,7 @@ Whether you need a SaaS platform, business dashboard, custom web application, AI
       <img src="https://skillicons.dev/icons?i=figma" width="65" height="65"/><br>Figma
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=ps" width="65" height="65"/><br>Adobe Photoshop
+      <img src="https://skillicons.dev/icons?i=ps" width="65" height="65"/><br>Photoshop
     </td>
   </tr>
 
