@@ -157,6 +157,12 @@ Whether you need a SaaS platform, business dashboard, custom web application, AI
     <td align="center" width="96">
       <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65"/><br>GitHub
     </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=figma" width="65" height="65"/><br>Figma
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=ps" width="65" height="65"/><br>Adobe Photoshop
+    </td>
   </tr>
 
 </table>
